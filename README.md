@@ -123,7 +123,8 @@ a no cost, multiplatform development kit, which is working on any platform.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-The screenshot is showing how one of the test's code is looking in the project.
+The screenshot is showing how one of the test's code.
+It is to give the idea of how it is looking inside the project.
 
 ![Test-code-screen]
 
