@@ -145,8 +145,6 @@ Personal Email: irada.rzaeva.98@gmail.com
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
