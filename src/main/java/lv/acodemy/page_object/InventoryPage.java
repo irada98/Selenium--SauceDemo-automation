@@ -20,4 +20,24 @@ public class InventoryPage {
     @Getter
     @FindBy(how = How.CLASS_NAME, className = "inventory_item")
     private List<WebElement> inventoryItems;
+
+    @Getter
+    @FindBy(how = How.ID, id = "logout_sidebar_link")
+    WebElement logoutButtonCheck;
+
+    @FindBy(how = How.CLASS_NAME, className = "bm-burger-button")
+    WebElement burgerButton;
+
+    @FindBy(how = How.ID, id = "logout_sidebar_link")
+    WebElement logoutButton;
+
+    public void burgerMenu() {
+        burgerButton.click();
+    }
+
+    public void logOut() {
+        logoutButton.click();
+    }
 }
+
+
